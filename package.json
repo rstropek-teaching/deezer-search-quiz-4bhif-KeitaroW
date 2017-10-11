@@ -16,10 +16,9 @@
     "url": "https://github.com/rstropek-teaching/deezer-search-quiz-4bhif-KeitaroW/issues"
   },
   "homepage": "https://github.com/rstropek-teaching/deezer-search-quiz-4bhif-KeitaroW#readme",
-  "dependencies": {
-    "tsc": "^1.20150623.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "cors-anywhere": "^0.4.0"
+    "cors-anywhere": "^0.4.0",
+    "tsc": "^1.20150623.0"
   }
 }
